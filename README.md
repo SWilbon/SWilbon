@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SWilbon
-- 👀 I’m interested in Azure Cloud Technologies.
-- 🌱 I’m currently learning Azure and it's features.
+- 👀 I enjoy working with Azure aka Entra ID Cloud Technologies.
+- 🌱 I’m currently working on development of a Security Server C# Solution.
 - 💞️ I’m looking to collaborate on developing better ways to manage Azure.
 - 📫 How to reach me wilbonworks@gmail.com
 
